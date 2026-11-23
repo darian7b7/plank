@@ -14,3 +14,8 @@ transparentthemedir = $(pkgdatadir)/themes/Transparent
 dist_transparenttheme_DATA = \
 	Transparent/dock.theme \
 	$(NULL)
+
+transparentraisedthemedir = $(pkgdatadir)/themes/TransparentRaised
+dist_transparentraisedtheme_DATA = \
+	TransparentRaised/dock.theme \
+	$(NULL)
